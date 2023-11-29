@@ -29,7 +29,3 @@ VALUES
 ("Malia", "Brown", 6, 5),
 ("Sarah", "Lourd", 7, null),
 ("Tom", "Allen", 8,7);
-
-
-
--- where does manager ID come from?
